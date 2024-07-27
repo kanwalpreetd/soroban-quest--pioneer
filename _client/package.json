@@ -6,6 +6,6 @@
     "serve": "deno run --allow-net --allow-read --allow-run webserver.bundle.js"
   },
   "devDependencies": {
-    "esbuild": "^0.15.12"
+    "esbuild": "^0.23.0"
   }
 }
