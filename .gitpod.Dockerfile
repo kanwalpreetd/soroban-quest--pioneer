@@ -1,5 +1,5 @@
 # Our customized docker image uses Gitpod's "workspace-full" image as a base.
-FROM gitpod/workspace-full:2024-07-14-17-19-51
+FROM gitpod/workspace-full:2024-09-11-00-04-27
 LABEL version="1.1.25"
 
 # These "RUN" shell commands are run on top of the "workspace-full" image, and
